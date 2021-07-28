@@ -12,4 +12,4 @@ design:
 ---
 <br>
 
-The **Qiyun Tang's Research Group** focuses on the theoretical calculation and computer simulation of non-equilibrium processes of soft matter near interfaces.
+**Our group** focuses on the theoretical calculation and computer simulation of non-equilibrium processes of soft matter near interfaces.
