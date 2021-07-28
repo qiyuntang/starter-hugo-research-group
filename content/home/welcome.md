@@ -9,6 +9,12 @@ design:
   columns: "1"
   css_style: null
   css_class: null
+  background:
+    image: null
+    color: "#7d36bd"
+    gradient_start: "#632ea4"
+    gradient_end: "#a646e4"
+    text_color_light: true
 ---
 <br>
 
