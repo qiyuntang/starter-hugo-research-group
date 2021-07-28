@@ -7,7 +7,7 @@ headless: true
 weight: 30
 title: null
 subtitle: null
-active: true
+active: false
 design:
   columns: "1"
   background:
@@ -16,7 +16,7 @@ design:
     image_parallax: false
     image_position: center
     image_size: cover
-    text_color_light: true
+    text_color_light: false
   spacing:
     padding:
       - 20px
